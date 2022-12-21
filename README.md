@@ -9,10 +9,10 @@ Predation has been the number one threat to the poultry business. A number of di
 The result of the final project can be found in the following link: https://www.youtube.com/watch?v=-19vYJV4Qv0
 
 NOTE:
-# This project was part of a course "Data Science for Mechanical System" offered by COLUMBIA UNIVERSITY
+**This project was part of a course "Data Science for Mechanical System" offered by COLUMBIA UNIVERSITY
 
 
-# Teammates for this project are: 
-# Mr. Shengye Dong 
-# Mr. Madhav Krishnamangalam Sabu 
-# Mr. Kenan Sihombing 
+**Teammates for this project are: 
+**Mr. Shengye Dong 
+**Mr. Madhav Krishnamangalam Sabu 
+**Mr. Kenan Sihombing 
